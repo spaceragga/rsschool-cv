@@ -59,10 +59,10 @@ function accum(s) {
 Only tasks on online courses HTML/CSS/JS
 
 ## Education
-[HTML Academy Online-Intensive](https://htmlacademy.ru/intensive/htmlcss)
-[Udemy JS Course](https://www.udemy.com/topic/javascript/) in progress...
-[Mini Course Sololearn](https://www.sololearn.com/)
-[Codewars](https://www.codewars.com/users/drop%20out)
+[HTML Academy Online-Intensive](https://htmlacademy.ru/intensive/htmlcss)  
+[Udemy JS Course](https://www.udemy.com/topic/javascript/) in progress...  
+[Mini Course Sololearn](https://www.sololearn.com/)  
+[Codewars](https://www.codewars.com/users/drop%20out)  
 
 ## English 
 A2
