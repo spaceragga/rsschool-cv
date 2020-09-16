@@ -3,11 +3,13 @@
 ## Contacts
 Located in **Minsk, Belarus**  
 **+375 33 322 40 24
+[dropooout@gmail.com](mailto:dropooout@gmail.com)**
+
 * Viber
 * Telegram
 * WhatsApp (all in phone number)
 * Discord (drop(@spaceragga))  
-[dropooout@gmail.com](mailto:dropooout@gmail.com)**
+
 
 ## Summary
 
@@ -19,12 +21,12 @@ I believe that a person can do everything that another can and even more.
 
 ## Skills
 
-◾◾◾◽◽ HTML, CSS, JS
-◾◾◽◽◽ Git
-◾◾◽◽◽ Photoshop
-◾◾◾◽◽ VS Code
-◾◽◽◽◽ C#
-◾◽◽◽◽ Java
+◾◾◾◽◽ HTML, CSS, JS  
+◾◾◽◽◽ Git  
+◾◾◽◽◽ Photoshop  
+◾◾◾◽◽ VS Code  
+◾◽◽◽◽ C#  
+◾◽◽◽◽ Java  
 
 ## Code examples
 
